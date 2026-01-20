@@ -19,4 +19,11 @@
         ruoyi-visual图形化管理模块
     </description>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-actuator</artifactId>
+        </dependency>
+    </dependencies>
+
 </project>
