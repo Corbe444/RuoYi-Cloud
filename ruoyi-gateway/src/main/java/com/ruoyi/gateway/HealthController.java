@@ -1,4 +1,4 @@
-package com.ruoyi.auth.controller;
+package com.ruoyi.gateway;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
