@@ -1,4 +1,4 @@
-package com.ruoyi.modules.monitor.config;ù
+package com.ruoyi.modules.monitor.config;
 
 import org.springframework.cloud.context.config.annotation.RefreshScope;
 import org.springframework.context.annotation.Configuration;
